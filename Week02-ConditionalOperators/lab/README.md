@@ -9,9 +9,9 @@
 
 | **Вход** | **Изход**            |
 |----------|----------------------|
-| 0       | Pizza                |
+| 0        | Pizza                |
 | 7.5      | Doner                |
-| 10.01     | University cafeteria |
+| 10.01    | University cafeteria |
 | -2       | Invalid input!       |
 | 18       | Invalid input!       |
 
